@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-Wall
+CFLAGS=-Wall -g
 EXECUTABLE=osh
 
 all: $(EXECUTABLE)
